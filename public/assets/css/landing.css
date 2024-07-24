@@ -1,0 +1,137 @@
+body {
+    background-color: #A2CDF4;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; 
+}
+
+.text-decoration {
+    text-decoration: none;
+    color: #6C99C3;
+}
+
+.text-decoration1 {
+    text-decoration: none;
+    color: #fefefe;
+}
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.image-logo{
+   width: 60px;
+   margin-top: 30px;
+   margin-left: 40px; 
+}
+
+
+.Logo-Text {
+    color: #fefefe;
+    font-family: expletus sans;
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 40px;   
+}
+
+.Sign-in {
+    color: #fefefe;
+    margin-left: 910px;
+    margin-top: 55px;
+    font-family: raleway;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.Button{
+    background-color: #fefefe;
+    width: 180px;
+    height: 47px;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-bottom: -50px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    border: none;
+}
+
+.Get-Started {
+    font-family: raleway;
+    font-weight: bold;
+    margin-left: 0px ;
+    margin-top: 3px;
+    font-size: 18px;
+    color: #6C99C3;
+}
+
+.Text-Content {
+    font-family: raleway;
+    font-weight: 500;
+    color: #fefefe ;
+    margin-top: 200px;
+    margin-left: 280px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.Image-Content {
+    margin-left: -3%; 
+    width: 30;
+    height: auto;
+}
+
+.Text-Content-1 {
+    font-family: raleway;
+    font-size: 33px;
+    color: #fefefe;
+    margin-left: 270px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.Text-Content-2 {
+    font-family: raleway;
+    font-weight: 500;
+    color: #fefefe;
+    font-size: 20px;
+    margin-left: 261px;
+    margin-top: 60px;
+}
+
+.Text-Content-3 {
+    font-family: raleway;
+    font-weight: 500;
+    color: #fefefe;
+    font-size: 20px;
+    margin-left: 273px;
+    margin-top: 5px;
+}
+
+.Text-Content-4 {
+    font-family: raleway;
+    font-weight: 500;
+    color: #fefefe;
+    font-size: 20px;
+    margin-left: 273px;
+    margin-top: 5px;
+}
+
+.Text-Content-5 {
+    font-family: raleway;
+    font-weight: 500;
+    color: #fefefe;
+    font-size: 20px;
+    margin-left: 273px;
+    margin-top: 5px;
+}
+
+.Image-Content-1 {
+    width: 650px;
+    height: auto;
+    margin-left: 820px;
+    margin-top: -470px;
+}

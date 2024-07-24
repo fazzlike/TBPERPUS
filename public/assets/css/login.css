@@ -1,0 +1,13 @@
+body {
+    background-color: #A2CDF4;
+    overflow: hidden;
+}
+
+.col-md-6 img {
+    width: 800px;
+    height: 745px;
+}
+
+.textbold p {
+    margin-left: 10px;
+}
